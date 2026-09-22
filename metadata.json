@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Manajemen Toko Bangunan",
+  "description": "Sistem Manajemen Toko Bangunan & Kasir POS berbasis Next.js, Tailwind CSS, dan Supabase dengan Role-Based Access Control (Admin & Petugas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
